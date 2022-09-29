@@ -1,4 +1,4 @@
-# Trabajo 6: Predicción de demanda de bicicletas elécticas del servio BiciMAD
+# Trabajo 6: Predicción de la demanda de bicicletas eléctricas del servicio BiciMAD
 
 El ayuntamiento de Madrid quiere conocer si debe reforzar o eliminar puestos de bicicletas atendiendo a la demanda que tienen. Para ello pretenden analizar cuáles son los trayectos más frecuentes, sus duraciones, las salidas... La intención es conseguir que siempre haya bicicletas disponibles en las horas y lugares de mayor demanda. Para ello se usará un histórico de los trayectos realizados junto con información adicional que podría ser de interés. El ayuntamiento de Madrid pretende que el impacto de la pandemia se vea lo menos reflejado posible en el estudio, por ello, **no se emplearán datos anteriores al 1 de septiembre de 2021** para esta tarea. Con toda esta información el ayuntamiento os pide:
 
